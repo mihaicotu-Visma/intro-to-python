@@ -1,5 +1,6 @@
 import math
 
+# test comment & git
 
 print('hello world')
 
@@ -7,6 +8,7 @@ print("hello world")
 
 print('hello \n world')
 
+# test comment
 name = 'world'
 print(f'hello {name}')
 
